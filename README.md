@@ -14,3 +14,12 @@ Goals :
 - The system should be highly testable and easy to verify.
 - It should be easy to add, remove & modify events and get compile time errors whenever a call site needs to be updated.
 
+
+
+- General Architecture of Framework
+
+![alt text](https://github.com/cagdastimurlenk/Tracklytics/blob/master/ArchitectureTracklytics.png)
+
+- General Architecture of Usage
+
+![alt text](https://github.com/cagdastimurlenk/Tracklytics/blob/master/ArchitectureUsage.png)
